@@ -21,8 +21,8 @@ pip install -r requirements.txt
 
 To start the Potato Disease Detector API, navigate to the directory containing your FastAPI application code (typically in a subfolder named `app`) and run the following command:
 
-```bash
-uvicorn app:app --reload
+    ```bash
+    uvicorn app:app --reload
 
 
 ## Interpretation of Results
