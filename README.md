@@ -14,7 +14,8 @@ Before running the Potato Disease Detector API, ensure that you have the followi
 
 
 # Install the dependencies from the requirements.txt file
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 
 ## Run the FastAPI Application
