@@ -146,6 +146,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+potato_disease_datagenerator.h5
 
 # pytype static type analyzer
 .pytype/
