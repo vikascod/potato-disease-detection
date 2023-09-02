@@ -20,7 +20,7 @@ Before running the Potato Disease Detector API, ensure that you have the followi
 
 ## Run the FastAPI Application
 
-To start the Potato Disease Detector API, navigate to the directory containing your FastAPI application code (typically in a subfolder named `app`) and run the following command:
+To start the Potato Disease Detector API, navigate to the directory containing your FastAPI application code and run the following command:
 
     ```bash
     uvicorn app:app --reload
